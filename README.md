@@ -16,7 +16,7 @@ The purpose of this project is to propose a HAAS system that provides solutions 
 
 |Name     |  Github Profile   | 
 |---------|-----------------|
-|Hamila Ahmed|[Hamila Ahmed](https://github.com/ahmedhamila/ahmedhamila)
+|Hamila Ahmed|[Hamila Ahmed](https://github.com/ahmedhamila)
 |Miled Yessine|[Miled Yessine](https://github.com/miledyessine)
 |Mtawa Ahmed|[Mtawa Ahmed](https://github.com/ahmedhamila/ahmedhamila)
-|Daroisi Asma|[Daroisi Asma](https://github.com/ahmedhamila/ahmedhamila)
+|Daroisi Asma|[Daroisi Asma](https://github.com/AsmaDaroizi)

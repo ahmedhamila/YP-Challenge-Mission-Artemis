@@ -4,42 +4,13 @@ This project is a part of the [IEEE Tunisian Students and Young Professionals(TS
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to propose a HAAS system that provides solutions or fascilitates the Artemis mission's astronauts day to day tasks.
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
-
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+The purpose of this project is to propose a HAAS system that provides solutions that facilitates the Artemis mission's astronauts day to day tasks.
 
 ### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
-
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+* Bio-Monitor
+* MobiPV
+* Piezo in Automotive Tires
+* Project power shoe
 
 ## Getting Started
 

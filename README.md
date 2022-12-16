@@ -14,9 +14,9 @@ The purpose of this project is to propose a HAAS system that provides solutions 
 
 #### Members:
 
-|Name     |  Slack Handle   | 
+|Name     |  Github Profile   | 
 |---------|-----------------|
-|[Hamila Ahmed](https://github.com/[github handle])| @johnDoe        |
-|[Miled Yessine](https://github.com/[github handle]) |     @janeDoe    |
-|[Mtawa Ahmed](https://github.com/[github handle])| @johnDoe        |
-|[Daroisi Asma](https://github.com/[github handle]) |     @janeDoe    |
+|[Hamila Ahmed]|[Hamila Ahmed](https://github.com/ahmedhamila/ahmedhamila)
+|[Miled Yessine]|[Hamila Ahmed](https://github.com/ahmedhamila/ahmedhamila)
+|[Mtawa Ahmed]|[Hamila Ahmed](https://github.com/ahmedhamila/ahmedhamila)
+|[Daroisi Asma]|[Hamila Ahmed](https://github.com/ahmedhamila/ahmedhamila)

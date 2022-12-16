@@ -12,7 +12,7 @@ This project is a part of the [IEEE Tunisian Students and Young Professionals(TS
 [Demo](https://drive.google.com/file/d/12bpuna-Xg0pmy5DIXhl0AqKAPY_p_qA-/view?usp=share_link)
 
 
-#### Pictures
+#### Pictures :
 ![image](https://user-images.githubusercontent.com/77456894/208161362-b71e382e-2c60-4178-abc3-6c48273756be.png)
 
 ![image](https://user-images.githubusercontent.com/77456894/208161403-9310841f-ca83-4ade-9157-ca45b2a35eab.png)

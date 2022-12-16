@@ -12,18 +12,11 @@ The purpose of this project is to propose a HAAS system that provides solutions 
 * Piezo in Automotive Tires
 * Project power shoe
 
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
+#### Members:
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+|[Hamila Ahmed](https://github.com/[github handle])| @johnDoe        |
+|[Miled Yessine](https://github.com/[github handle]) |     @janeDoe    |
+|[Mtawa Ahmed](https://github.com/[github handle])| @johnDoe        |
+|[Daroisi Asma](https://github.com/[github handle]) |     @janeDoe    |

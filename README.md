@@ -4,7 +4,7 @@ This project is a part of the [IEEE Tunisian Students and Young Professionals(TS
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to propose a HAAS system that provides solutions or fascilitates the Artemis mission's astronauts day to day tasks.
 
 ### Partner
 * [Name of Partner organization/Government department etc..]

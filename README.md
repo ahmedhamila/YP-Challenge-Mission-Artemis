@@ -1,7 +1,7 @@
 # YP-Challenge-Mission-Artemis
-This project is a part of the [TSYP](https://tsyp.ieee.tn/) . 
+This project is a part of the [IEEE Tunisian Students and Young Professionals](https://tsyp.ieee.tn/) . 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)

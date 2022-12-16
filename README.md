@@ -1,5 +1,5 @@
 # YP-Challenge-Mission-Artemis
-This project is a part of the [IEEE Tunisian Students and Young Professionals](https://tsyp.ieee.tn/) . 
+This project is a part of the [IEEE Tunisian Students and Young Professionals(TSYP)](https://tsyp.ieee.tn/) . 
 
 #### -- Project Status: [Completed]
 

@@ -6,4 +6,4 @@ This project is a part of the [IEEE Tunisian Students and Young Professionals(TS
 
 #### Official-site:
 
-[bio-Monitor](https://www.altenergymag.com/article/2017/12/piezoelectric-power-generation-in-automotive-tires/27642)
+[Automotive Tires](https://www.altenergymag.com/article/2017/12/piezoelectric-power-generation-in-automotive-tires/27642)

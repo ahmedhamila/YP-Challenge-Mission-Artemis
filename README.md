@@ -8,7 +8,7 @@ The purpose of this project is to propose a HAAS system that provides solutions 
 
 ### Technologies
 * Bio-Monitor
-* MobiPV System
+* MobiPV System.
 * Piezo in Automotive Tires
 * Project power shoe
 
